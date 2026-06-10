@@ -1,0 +1,4 @@
+backend,num_qubits,version,basis_gates,coupling_edges,online_date,processor_type,operational,pending_jobs,status_msg
+ibm_kingston,156,2,"cz,id,rz,sx,x",352,2025-02-20 05:00:00+00:00,"{'family': 'Heron', 'revision': '2'}",True,0,active
+ibm_fez,156,2,"cz,id,rz,sx,x",352,2024-05-14 04:00:00+00:00,"{'family': 'Heron', 'revision': '2'}",True,0,active
+ibm_marrakesh,156,2,"cz,id,rz,sx,x",352,2024-08-07 04:00:00+00:00,"{'family': 'Heron', 'revision': '2'}",True,0,active

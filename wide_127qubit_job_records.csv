@@ -1,0 +1,4 @@
+backend,job_id,n_circuits,n_qubits_used,shots
+ibm_kingston,d8hcie5v8cos73f48ma0,27,127,1024
+ibm_fez,d8hcii9e8nrc73bh1m1g,27,127,1024
+ibm_marrakesh,d8hciq5v8cos73f48mq0,27,127,1024
